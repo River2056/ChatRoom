@@ -1,0 +1,1 @@
+My pratice attempt on the chat room app using ArrayList instead of the normal array functions
